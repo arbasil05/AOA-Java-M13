@@ -69,7 +69,8 @@ public class Solution {
 
 ## Output:
 
-<img width="1242" height="218" alt="image" src="https://github.com/user-attachments/assets/1b13ae23-a6b1-4652-a747-0a54a5fd353e" />
+<img width="787" height="98" alt="image" src="https://github.com/user-attachments/assets/6f1969b7-99e7-41eb-8663-00993700bb1e" />
+
 
 
 ## Result:
